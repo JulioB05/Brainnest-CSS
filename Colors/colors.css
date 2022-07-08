@@ -1,0 +1,23 @@
+.title h1{
+    color: blue;   
+}
+
+.title h2{
+    color:rgb(132, 34, 223) ;
+}
+
+.title h3{
+    color: #FF5733;
+}
+
+.title h4 {
+    color: hsl(150, 80, 60);
+}
+
+.title h4{
+    color: green;
+}
+
+.title{
+    background-color:grey;
+}

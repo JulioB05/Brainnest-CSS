@@ -2,15 +2,16 @@
     font-family: "ExtraBold";
     src: url(../Fonts/Roboto-Bold.ttf) format('truetype');
 }
+
 @font-face {
-    font-family:'lightItalic';
+    font-family: 'lightItalic';
     src: url(../Fonts/Roboto-LightItalic.ttf) format('truetype');
 }
+
 @font-face {
     font-family: 'thin100';
     src: url(../Fonts/Roboto-Thin.ttf) format('truetype');
 }
-
 
 .body {
     font-family: 'thin100', sans-serif;
@@ -28,11 +29,9 @@
     padding-left: 5%;
     padding-right: 5%;
     margin: 10px 50px 10px 50px;
-
-
 }
 
-.headerlogo{
+.headerlogo {
     font-family: 'ExtraBold', sans-serif;
 }
 
@@ -41,8 +40,6 @@
     justify-content: space-between;
     color: #e5e7eb;
     margin-top: 20px;
-
-
 }
 
 .nav1 a {
@@ -55,7 +52,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .content1 h1 {
@@ -64,7 +60,6 @@
     margin-bottom: 0;
     margin-right: 100px;
     font-family: 'ExtraBold', sans-serif;
-
 }
 
 .content1 p {
@@ -79,7 +74,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .content1 button {
@@ -104,13 +98,11 @@
     grid-template-columns: repeat(4, 20%);
     padding-left: 250px;
     padding-right: auto;
-
 }
 
 .container2 p {
     width: 160px;
 }
-
 
 .someRandom h2 {
     font-size: 36px;
@@ -133,12 +125,11 @@
     margin: 10px 50px 10px 50px;
     font-size: 36px;
     color: #1f2937;
-    font-family: 'lightItalic' , sans-serif;
+    font-family: 'lightItalic', sans-serif;
 }
 
 .thor2 {
     padding: 35px 100px 0;
-
 }
 
 .thor2 footer {
@@ -146,13 +137,15 @@
     justify-content: end;
 }
 
-.callTo{
-    height: 200px;;
+.callTo {
+    height: 200px;
+    ;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.barbutton{
+
+.barbutton {
     background-color: #3882f6;
     height: 100px;
     width: 50%;
@@ -162,14 +155,14 @@
     align-items: center;
 }
 
-.callContent{
+.callContent {
     text-align: left;
     padding-right: 30px;
     line-height: 2px;
     color: #e5e7eb;
 }
 
-.callButton button{
+.callButton button {
     background-color: #3882f6;
     color: #e5e7eb;
     border: 1px solid #e5e7eb;
@@ -178,7 +171,7 @@
     border-radius: 5px;
 }
 
-.footer{
+.footer {
     width: 80%;
     height: 60px;
     background-color: #1f2937;

@@ -2,13 +2,11 @@
     background-color: black;
     color: white;
     text-align: center;
-
 }
 
 .container {
  display: flex;
  justify-content: center;
-
 }
 
 .contanier2{
@@ -23,7 +21,6 @@
     margin: 10px;
     border-radius: 15px;
     text-align: center;
-
 }
 
 .form a {

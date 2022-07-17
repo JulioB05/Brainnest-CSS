@@ -11,7 +11,6 @@
     src: url(../Fonts/Roboto-Thin.ttf) format('truetype');
 }
 
-
 .body {
     font-family: 'thin100', sans-serif;
 }
@@ -28,8 +27,6 @@
     padding-left: 5%;
     padding-right: 5%;
     margin: 10px 50px 10px 50px;
-
-
 }
 
 .headerlogo img{
@@ -41,8 +38,6 @@
     justify-content: space-between;
     color: #e5e7eb;
     margin-top: 20px;
-
-
 }
 
 .nav1 a {
